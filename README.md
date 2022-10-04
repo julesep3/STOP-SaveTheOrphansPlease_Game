@@ -6,10 +6,11 @@ Group Project (Team of 2)
  - The agenda is to create a game using OOP in Java within the Greenfoot environment.
 
 ### STOP is a platformer where you play as a nun.
- - Objective: Collect/save enough orphans before the timer runs out (before Godzilla reaches the left side of the screen).
+ - Objective: Collect/save at least 20 orphans before the timer runs out (before Godzilla reaches the left side of the screen).
  - Enemies: Avoid encountering the flashers (robed men) or else your health bar may empty, ending the game before the timer runs out.
 
 ## Demo Link
+ - https://youtu.be/sfo-Xwn3eGo
 
 ## Getting Started
 
