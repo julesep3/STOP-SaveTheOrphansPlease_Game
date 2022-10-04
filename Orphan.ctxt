@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Orphan
+comment0.text=\r\n\ \r\n\ \r\n\ @author\ Susan\ Emberton\r\n\ \r\n
+comment1.params=
+comment1.target=Orphan()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ grounded()
+comment4.params=
+comment4.target=void\ fall()
+comment5.params=
+comment5.target=void\ checkIfFalling()
+numComments=6

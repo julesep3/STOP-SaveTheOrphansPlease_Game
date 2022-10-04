@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Flasher
+comment0.text=\r\n\ \r\n\ \r\n\ @author\ Susan\ Emberton\r\n\ \r\n
+comment1.params=
+comment1.target=Flasher()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ flash()
+numComments=4
